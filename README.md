@@ -1,0 +1,3 @@
+This is a refactor of the original ZMK configuration of the Totem Keyboard, which could be found here: https://github.com/GEIGEIGEIST/zmk-config-totem
+
+When I first built the keyboard firmware from the link above, it worked fine, but the GitHub Actions logs produce a lot of deprecation warnings.  So I decided to start an updated repo that has the same content rebuilt as a module, per ZMK recommended setup.
