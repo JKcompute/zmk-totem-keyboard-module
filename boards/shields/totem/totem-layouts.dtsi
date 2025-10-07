@@ -51,6 +51,6 @@
     };
 };
 
-# https://zmk-physical-layout-converter.streamlit.app
-# https://keymap-drawer.streamlit.app/?zmk_url=https%3A%2F%2Fraw.githubusercontent.com%2FGEIGEIGEIST%2Fzmk-config-totem%2Frefs%2Fheads%2Fmaster%2Fconfig%2Ftotem.keymap
-# https://nickcoutsos.github.io/keymap-layout-tools/
+// https://zmk-physical-layout-converter.streamlit.app
+// https://keymap-drawer.streamlit.app/?zmk_url=https%3A%2F%2Fraw.githubusercontent.com%2FGEIGEIGEIST%2Fzmk-config-totem%2Frefs%2Fheads%2Fmaster%2Fconfig%2Ftotem.keymap
+// https://nickcoutsos.github.io/keymap-layout-tools/
