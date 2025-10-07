@@ -6,7 +6,7 @@
         display-name = "TOTEM";
 
         kscan = <&kscan0>;
-        transform = <&matrix_transform0>;
+        transform = <&default_transform>;
 
         keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100  106  349 (-1000)   156   399>
