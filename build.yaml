@@ -14,5 +14,8 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: totem_left_with_studio
   - board: seeeduino_xiao_ble
+    shield: totem_left
+    artifact-name: totem_left_without_studio
+  - board: seeeduino_xiao_ble
     shield: totem_right
 
