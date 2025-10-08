@@ -5,8 +5,8 @@
 # pass flags to the build command, `snippet` to add a Zephyr snippet, and
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
-board: [ "seeeduino_xiao_ble" ]
-shield: [ "totem_left", "totem_right" ]
+# board: [ "seeeduino_xiao_ble" ]
+# shield: [ "totem_left", "totem_right" ]
 include:
   - board: seeeduino_xiao_ble
     shield: totem_left
